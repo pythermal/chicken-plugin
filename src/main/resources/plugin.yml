@@ -1,0 +1,7 @@
+name: Chicken
+version: ${project.version}
+main: pluginkids.chicken.Chicken
+api-version: 1.15.2
+authors: [Kid, other_kid]
+description: Shredded cheese
+website: jarvisjohnson.com
